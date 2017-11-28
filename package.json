@@ -1,0 +1,25 @@
+{
+  "name": "lhtweb",
+  "version": "0.0.1",
+  "description": "主要功能：实现B/S框架的Web服务器，提供WebService API接口（iOS，Windows，浏览器，微信公众号支持）实现对MySQL数据的管理！",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhaotian/myweb.git"
+  },
+  "keywords": [
+    "lhaotian"
+  ],
+  "author": "Li HaoTian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhaotian/myweb/issues"
+  },
+  "homepage": "https://github.com/lhaotian/myweb#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
