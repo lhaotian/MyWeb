@@ -19,7 +19,5 @@
     "url": "https://github.com/lhaotian/myweb/issues"
   },
   "homepage": "https://github.com/lhaotian/myweb#readme",
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+  "dependencies": {}
 }
