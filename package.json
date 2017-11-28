@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/lhaotian/myweb#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express3-handlebars": "^0.5.2"
   }
 }
